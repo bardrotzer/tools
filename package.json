@@ -1,0 +1,16 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "collection of useless tools",
+  "main": "index.js",
+  "repository": "git@github.com:bardrotzer/tools.git",
+  "author": "bard@kartoteket.as",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "topojson-client": "^3.1.0"
+  }
+}

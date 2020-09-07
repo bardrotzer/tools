@@ -1,0 +1,4 @@
+files/*.*
+output/*.*
+.env
+node_modules
