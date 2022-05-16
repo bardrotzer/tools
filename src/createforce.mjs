@@ -32,12 +32,12 @@ const chartWidth = 600
 const chartHeight = 400
 // projection used in the map
 const projection = geo.geoAlbersUsa()
-      .scale(700)
+      .scale(chartWidth)
       .translate([chartWidth / 2, chartHeight / 2])
 
 
 // read in the electiondata
-const elections = await read(`${process.env.BASE_PATH}/files/county_elections.csv`)
+const elections = await read(`${process.env.BASE_PATH}/output/total_elections.csv`)
 
 // bensure pop is present for getting the min and max
 const pop = elections.map(e => {
@@ -47,7 +47,7 @@ const min = d3a.min(pop);
 const max = d3a.max(pop);
 // create the radius scale
 const scale = d3s
-  .scaleLinear()
+  .scalePow()
   .domain([min, max])
   .range([1, 30]);
 
@@ -62,14 +62,31 @@ const nodes = elections.map(d => {
     y: pos[1],
     xInitial: pos[0],
     yInitial: pos[1],
-    dem: +d.dem.slice(0,4),
-    rep: +d.rep.slice(0,4)
+    dem_2008: d.dem_2008,
+    rep_2008: d.rep_2008,
+    dem_2012: d.dem_2012,
+    rep_2012: d.rep_2012,
+    dem_2016: d.dem_2016,
+    rep_2016: d.rep_2016,
+    dem_2020: d.dem_2020,
+    rep_2020: d.rep_2020
   };
 })
 
 // apply force
 const values = applySimulation(nodes)
-
+console.log(values[30])
+const refactored = values.map(d => {
+  d.r = String(d.r).slice(0,5)
+  d.xInitial = String(d.xInitial).slice(0,5)
+  d.yInitial = String(d.yInitial).slice(0,5)
+  d.x = String(d.x).slice(0,5)
+  d.y = String(d.y).slice(0,5)
+  d.vx = String(d.vx).slice(0,6)
+  d.vy = String(d.vy).slice(0,6)
+  return d;
+})
+console.log(refactored[30])
 // write new values to a csv file
 await write(`${process.env.BASE_PATH}/output/county_election_nodes.csv`, values);
 
