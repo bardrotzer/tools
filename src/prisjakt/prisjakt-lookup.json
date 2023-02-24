@@ -1,0 +1,632 @@
+[{
+    "name": "Apple iPhone 8 2GB RAM 64GB",
+    "id": "A1905",
+    "color": "none",
+    "storage": 64,
+    "pid": "4471963"
+  },{
+    "name": "Apple iPhone 8 2GB RAM 128GB",
+    "id": "A1905",
+    "color": "none",
+    "storage": 128,
+    "pid": "5188636"
+  },{
+    "name": "Apple iPhone 8 2GB RAM 256GB",
+    "id": "A1905",
+    "color": "none",
+    "storage": 256,
+    "pid": "4474160"
+  },{
+    "name": "Apple iPhone 8 Plus 3GB RAM 256GB",
+    "id": "A1897",
+    "color": "none",
+    "storage": 256,
+    "pid": "4474161"
+  },{
+    "name": "Apple iPhone 8 Plus 3GB RAM 64GB",
+    "id": "A1897",
+    "color": "none",
+    "storage": 64,
+    "pid": "4471964"
+  },{
+    "name": "Apple iPhone X 3GB RAM 64GB",
+    "id": "A1901",
+    "color": "none",
+    "storage": 64,
+    "pid": "4471962"
+  },{
+    "name": "Apple iPhone X 3GB RAM 256GB",
+    "id": "A1901",
+    "color": "none",
+    "storage": 256,
+    "pid": "4474162"
+  },{
+    "name": "Apple iPhone XS 4GB RAM 64GB",
+    "id": "A2097",
+    "color": "none",
+    "storage": 64,
+    "pid": "4919780"
+  },{
+    "name": "Apple iPhone XS 4GB RAM 256GB",
+    "id": "A2097",
+    "color": "none",
+    "storage": 256,
+    "pid": "4939144"
+  },{
+    "name": "Apple iPhone XS 4GB RAM 512GB",
+    "id": "A2097",
+    "color": "none",
+    "storage": 512,
+    "pid": "4939076"
+  },{
+    "name": "Apple iPhone XR 3GB RAM 64GB",
+    "id": "A2105",
+    "color": "none",
+    "storage": 64,
+    "pid": "4939135"
+  },{
+    "name": "Apple iPhone XR 3GB RAM 128GB",
+    "id": "A2105",
+    "color": "none",
+    "storage": 128,
+    "pid": "4939766"
+  },{
+    "name": "Apple iPhone XR 3GB RAM 256GB",
+    "id": "A2105",
+    "color": "none",
+    "storage": 256,
+    "pid": "4939082"
+  },{
+    "name": "Apple iPhone XR (Product)Red Special Edition 3GB RAM 64GB",
+    "id": "A2105",
+    "color": "red",
+    "storage": 64,
+    "pid": "4939770"
+  },{
+    "name": "Apple iPhone XS Max 4GB RAM 64GB",
+    "id": "A2101",
+    "color": "none",
+    "storage": 64,
+    "pid": "4939134"
+  },{
+    "name": "Apple iPhone XS Max 4GB RAM 512GB",
+    "id": "A2101",
+    "color": "none",
+    "storage": 512,
+    "pid": "4939081"
+  },{
+    "name": "Apple iPhone XS Max 4GB RAM 256GB",
+    "id": "A2101",
+    "color": "none",
+    "storage": 256,
+    "pid": "4939078"
+  },{
+    "name": "Apple iPhone 11 4GB RAM 64GB",
+    "id": "A2221",
+    "color": "none",
+    "storage": 64,
+    "pid": "5172022"
+  },{
+    "name": "Apple iPhone 11 4GB RAM 128GB",
+    "id": "A2221",
+    "color": "none",
+    "storage": 128,
+    "pid": "5187546"
+  },{
+    "name": "Apple iPhone 11 4GB RAM 256GB",
+    "id": "A2221",
+    "color": "none",
+    "storage": 256,
+    "pid": "5183923"
+  },{
+    "name": "Apple iPhone 11 (Product)Red Special Edition 4GB RAM 64GB",
+    "id": "A2221",
+    "color": "red",
+    "storage": 64,
+    "pid": "5191545"
+  },{
+    "name": "Apple iPhone 11 (Product)Red Special Edition 4GB RAM 128GB",
+    "id": "A2221",
+    "color": "red",
+    "storage": 128,
+    "pid": "5191565"
+  },{
+    "name": "Apple iPhone 11 (Product)Red Special Edition 4GB RAM 256GB",
+    "id": "A2221",
+    "color": "red",
+    "storage": 256,
+    "pid": "5191560"
+  },{
+    "name": "Apple iPhone 11 Pro 4GB RAM 64GB",
+    "id": "A2215",
+    "color": "none",
+    "storage": 64,
+    "pid": "5183925"
+  },{
+    "name": "Apple iPhone 11 Pro 4GB RAM 256GB",
+    "id": "A2215",
+    "color": "none",
+    "storage": 256,
+    "pid": "5187456"
+  },{
+    "name": "Apple iPhone 11 Pro 4GB RAM 512GB",
+    "id": "A2215",
+    "color": "none",
+    "storage": 512,
+    "pid": "5187459"
+  },{
+    "name": "Apple iPhone 11 Pro Max 4GB RAM 64GB",
+    "id": "A2218",
+    "color": "none",
+    "storage": 64,
+    "pid": "5172024"
+  },{
+    "name": "Apple iPhone 11 Pro Max 4GB RAM 512GB",
+    "id": "A2218",
+    "color": "none",
+    "storage": 512,
+    "pid": "5187459"
+  },{
+    "name": "Apple iPhone 11 Pro Max 4GB RAM 256GB",
+    "id": "A2218",
+    "color": "none",
+    "storage": 256,
+    "pid": "5187458"
+  },{
+    "name": "Apple iPhone 12 5G 4GB RAM 64GB",
+    "id": "A2403",
+    "color": "none",
+    "storage": 64,
+    "pid": "5594641"
+  },{
+    "name": "Apple iPhone 12 5G 4GB RAM 128GB",
+    "id": "A2403",
+    "color": "none",
+    "storage": 128,
+    "pid": "5338238"
+  },{
+    "name": "Apple iPhone 12 5G 4GB RAM 256GB",
+    "id": "A2403",
+    "color": "none",
+    "storage": 256,
+    "pid": "5594642"
+  },{
+    "name": "Apple iPhone 12 (Product)Red Special Edition 5G 6GB RAM 64GB",
+    "id": "A2403",
+    "color": "red",
+    "storage": 64,
+    "pid": "5595710"
+  },{
+    "name": "Apple iPhone 12 (Product)Red Special Edition 5G 6GB RAM 256GB",
+    "id": "A2403",
+    "color": "red",
+    "storage": 256,
+    "pid": "5595712"
+  },{
+    "name": "Apple iPhone 12 (Product)Red Special Edition 5G 6GB RAM 128GB",
+    "id": "A2403",
+    "color": "red",
+    "storage": 128,
+    "pid": "5595709"
+  },{
+    "name": "Apple iPhone 12 Mini 5G 4GB RAM 64GB",
+    "id": "A2399",
+    "color": "none",
+    "storage": 64,
+    "pid": "5594638"
+  },{
+    "name": "Apple iPhone 12 Mini 5G 4GB RAM 128GB",
+    "id": "A2399",
+    "color": "none",
+    "storage": 128,
+    "pid": "5594639"
+  },{
+    "name": "Apple iPhone 12 Mini 5G 4GB RAM 256GB",
+    "id": "A2399",
+    "color": "none",
+    "storage": 256,
+    "pid": "5594640"
+  },{
+    "name": "Apple iPhone 12 Mini (Product)Red Special Edition 5G 4GB RAM 64GB",
+    "id": "A2399",
+    "color": "red",
+    "storage": 64,
+    "pid": "5595707"
+  },{
+    "name": "Apple iPhone 12 Mini (Product)Red Special Edition 5G 4GB RAM 256GB",
+    "id": "A2399",
+    "color": "red",
+    "storage": 256,
+    "pid": "5595708"
+  },{
+    "name": "Apple iPhone 12 Mini (Product)Red Special Edition 5G 4GB RAM 128GB",
+    "id": "A2399",
+    "color": "red",
+    "storage": 128,
+    "pid": "5595711"
+  },{
+    "name": "Apple iPhone 12 Pro 5G 6GB RAM 128GB",
+    "id": "A2407",
+    "color": "none",
+    "storage": 128,
+    "pid": "5594643"
+  },{
+    "name": "Apple iPhone 12 Pro 5G 6GB RAM 256GB",
+    "id": "A2407",
+    "color": "none",
+    "storage": 256,
+    "pid": "5338239"
+  },{
+    "name": "Apple iPhone 12 Pro 5G 6GB RAM 512GB",
+    "id": "A2407",
+    "color": "none",
+    "storage": 512,
+    "pid": "5594644"
+  },{
+    "name": "Apple iPhone 12 Pro Max 5G 6GB RAM 128GB",
+    "id": "A2411",
+    "color": "none",
+    "storage": 128,
+    "pid": "5594425"
+  },{
+    "name": "Apple iPhone 12 Pro Max 5G 6GB RAM 256GB",
+    "id": "A2411",
+    "color": "none",
+    "storage": 256,
+    "pid": "5594458"
+  },{
+    "name": "Apple iPhone 12 Pro Max 5G 6GB RAM 512GB",
+    "id": "A2411",
+    "color": "none",
+    "storage": 512,
+    "pid": "5594459"
+  },{
+    "name": "Apple iPhone 13 5G 4GB RAM 128GB",
+    "id": "A2633",
+    "color": "none",
+    "storage": 128,
+    "pid": "5683804"
+  },{
+    "name": "Apple iPhone 13 5G 4GB RAM 256GB",
+    "id": "A2633",
+    "color": "none",
+    "storage": 256,
+    "pid": "5855621"
+  },{
+    "name": "Apple iPhone 13 5G 4GB RAM 512GB",
+    "id": "A2633",
+    "color": "none",
+    "storage": 512,
+    "pid": "5855617"
+  },{
+    "name": "Apple iPhone 13 (Product)Red Special Edition 5G 4GB RAM 128GB",
+    "id": "A2633",
+    "color": "red",
+    "storage": 128,
+    "pid": "5855648"
+  },{
+    "name": "Apple iPhone 13 (Product)Red Special Edition 5G 4GB RAM 256GB",
+    "id": "A2633",
+    "color": "red",
+    "storage": 256,
+    "pid": "5855649"
+  },{
+    "name": "Apple iPhone 13 (Product)Red Special Edition 5G 4GB RAM 512GB",
+    "id": "A2633",
+    "color": "red",
+    "storage": 512,
+    "pid": "5855650"
+  },{
+    "name": "Apple iPhone 13 Pro 5G 6GB RAM 128GB",
+    "id": "A2638",
+    "color": "none",
+    "storage": 128,
+    "pid": "5683805"
+  },{
+    "name": "Apple iPhone 13 Pro 5G 6GB RAM 256GB",
+    "id": "A2638",
+    "color": "none",
+    "storage": 256,
+    "pid": "5855619"
+  },{
+    "name": "Apple iPhone 13 Pro 5G 6GB RAM 1TB",
+    "id": "A2638",
+    "color": "none",
+    "storage": 1,
+    "pid": "5855645"
+  },{
+    "name": "Apple iPhone 13 Pro 5G 6GB RAM 512GB",
+    "id": "A2638",
+    "color": "none",
+    "storage": 512,
+    "pid": "5855623"
+  },{
+    "name": "Apple iPhone 13 Pro Max 5G 6GB RAM 128GB",
+    "id": "A2643",
+    "color": "none",
+    "storage": 128,
+    "pid": "5683806"
+  },{
+    "name": "Apple iPhone 13 Pro Max 5G 6GB RAM 256GB",
+    "id": "A2643",
+    "color": "none",
+    "storage": 256,
+    "pid": "5855620"
+  },{
+    "name": "Apple iPhone 13 Pro Max 5G 8GB RAM 1TB",
+    "id": "A2643",
+    "color": "none",
+    "storage": 1,
+    "pid": "5855644"
+  },{
+    "name": "Apple iPhone 13 Pro Max 5G 8GB RAM 512GB",
+    "id": "A2643",
+    "color": "none",
+    "storage": 512,
+    "pid": "5855624"
+  },{
+    "name": "Apple iPhone 13 Mini 5G 4GB RAM 128GB",
+    "id": "A2628",
+    "color": "none",
+    "storage": 128,
+    "pid": "5851667"
+  },{
+    "name": "Apple iPhone 13 Mini 5G 4GB RAM 256GB",
+    "id": "A2628",
+    "color": "none",
+    "storage": 256,
+    "pid": "5855622"
+  },{
+    "name": "Apple iPhone 13 Mini 5G 4GB RAM 512GB",
+    "id": "A2628",
+    "color": "none",
+    "storage": 512,
+    "pid": "5855618"
+  },{
+    "name": "Apple iPhone 13 Mini (Product)Red Special Edition 5G 4GB RAM 128GB",
+    "id": "A2628",
+    "color": "red",
+    "storage": 128,
+    "pid": "5855653"
+  },{
+    "name": "Apple iPhone 13 Mini (Product)Red Special Edition 5G 4GB RAM 256GB",
+    "id": "A2628",
+    "color": "red",
+    "storage": 256,
+    "pid": "5855652"
+  },{
+    "name": "Apple iPhone 13 Mini (Product)Red Special Edition 5G 4GB RAM 512GB",
+    "id": "A2628",
+    "color": "red",
+    "storage": 512,
+    "pid": "5855651"
+  },{
+    "name": "Apple iPhone SE 2020 (2nd Generation) 3GB RAM 64GB",
+    "id": "A2296",
+    "color": "none",
+    "storage": 64,
+    "pid": "5306321"
+  },{
+    "name": "Apple iPhone SE 2020 (2nd Generation) 3GB RAM 128GB",
+    "id": "A2296",
+    "color": "none",
+    "storage": 128,
+    "pid": "5325094"
+  },{
+    "name": "Apple iPhone SE 2020 (2nd Generation) (Product)Red Special Edition 3GB RAM 128GB",
+    "id": "A2296",
+    "color": "red",
+    "storage": 128,
+    "pid": "5339136"
+  },{
+    "name": "Apple iPhone SE 2020 (2nd Generation) (Product)Red Special Edition 3GB RAM 256GB",
+    "id": "A2296",
+    "color": "red",
+    "storage": 256,
+    "pid": "5339138"
+  },{
+    "name": "Apple iPhone SE 2020 (2nd Generation) (Product)Red Special Edition 3GB RAM 64GB",
+    "id": "A2296",
+    "color": "red",
+    "storage": 64,
+    "pid": "5339134"
+  },{
+    "name": "Apple iPhone SE 2020 (2nd Generation) 3GB RAM 256GB",
+    "id": "A2296",
+    "color": "none",
+    "storage": 256,
+    "pid": "5325095"
+  },{
+    "name": "Samsung Galaxy S22 Ultra SM-S908B 5G Dual SIM 8GB RAM 128GB",
+    "id": "SM-S908B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5956327"
+  },{
+    "name": "Samsung Galaxy S22 Ultra SM-S908B 5G Dual SIM 12GB RAM 256GB",
+    "id": "SM-S908B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5956321"
+  },{
+    "name": "Samsung Galaxy S22 Ultra SM-S908B 5G Dual SIM 12GB RAM 512GB",
+    "id": "SM-S908B",
+    "color": "none",
+    "storage": 512,
+    "pid": "5956325"
+  },{
+    "name": "Samsung Galaxy S22 SM-S901B 5G Dual SIM 8GB RAM 128GB",
+    "id": "SM-S901B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5956320"
+  },{
+    "name": "Samsung Galaxy S22 SM-S901B 5G Dual SIM 8GB RAM 256GB",
+    "id": "SM-S901B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5956311"
+  },{
+    "name": "Samsung Galaxy S21 SM-G991B 5G Dual SIM 8GB RAM 128GB",
+    "id": "SM-G991B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5672689"
+  },{
+    "name": "Samsung Galaxy S21 SM-G991B 5G Dual SIM 8GB RAM 256GB",
+    "id": "SM-G991B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5682536"
+  },{
+    "name": "Samsung Galaxy S10 SM-G973F/DS Dual SIM 8GB RAM 128GB",
+    "id": "SM-G973F",
+    "color": "none",
+    "storage": 128,
+    "pid": "4989077"
+  },{
+    "name": "Samsung Galaxy S10 SM-G973F Dual SIM 8GB RAM 512GB",
+    "id": "SM-G973F",
+    "color": "none",
+    "storage": 512,
+    "pid": "5011961"
+  },{
+    "name": "Samsung Galaxy S10 Plus SM-G975F Dual SIM 8GB RAM 128GB",
+    "id": "SM-G975F",
+    "color": "none",
+    "storage": 128,
+    "pid": "5025679"
+  },{
+    "name": "Samsung Galaxy S10 Plus SM-G975F Dual SIM 12GB RAM 1TB",
+    "id": "SM-G975F",
+    "color": "none",
+    "storage": 1,
+    "pid": "5057277"
+  },{
+    "name": "Samsung Galaxy S10 Plus SM-G975F Dual SIM 8GB RAM 512GB",
+    "id": "SM-G975F",
+    "color": "none",
+    "storage": 512,
+    "pid": "5055746"
+  },{
+    "name": "Samsung Galaxy A13 SM-A137F/DS Dual SIM 4GB RAM 64GB",
+    "id": "SM-A135F",
+    "color": "none",
+    "storage": 64,
+    "pid": "6922579"
+  },{
+    "name": "Samsung Galaxy A13 SM-A137F/DS Dual SIM 3GB RAM 32GB",
+    "id": "SM-A135F",
+    "color": "none",
+    "storage": 32,
+    "pid": "6922578"
+  },{
+    "name": "Samsung Galaxy A13 SM-A137F/DS Dual SIM 4GB RAM 128GB",
+    "id": "SM-A135F",
+    "color": "none",
+    "storage": 128,
+    "pid": "6922577"
+  },{
+    "name": "Samsung Galaxy S8 Plus SM-G955F 4GB RAM 64GB",
+    "id": "SM-G955F",
+    "color": "none",
+    "storage": 64,
+    "pid": "4236749"
+  },{
+    "name": "Samsung Galaxy S9 Plus SM-G965F/DS Dual SIM 6GB RAM 64GB",
+    "id": "SM-G965F",
+    "color": "none",
+    "storage": 64,
+    "pid": "4652629"
+  },{
+    "name": "Samsung Galaxy S21 Plus SM-G996B 5G Dual SIM 8GB RAM 128GB",
+    "id": "SM-G996B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5672690"
+  },{
+    "name": "Samsung Galaxy S21 Plus SM-G996B 5G Dual SIM 8GB RAM 256GB",
+    "id": "SM-G996B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5682537"
+  },{
+    "name": "Samsung Galaxy S21 Ultra SM-G998B 5G Dual SIM 12GB RAM 128GB",
+    "id": "SM-G998B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5672691"
+  },{
+    "name": "Samsung Galaxy S21 Ultra SM-G998B 5G Dual SIM 16GB RAM 512GB",
+    "id": "SM-G998B",
+    "color": "none",
+    "storage": 512,
+    "pid": "5682539"
+  },{
+    "name": "Samsung Galaxy S21 Ultra SM-G998B 5G Dual SIM 12GB RAM 256GB",
+    "id": "SM-G998B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5682538"
+  },{
+    "name": "Samsung Galaxy S20 FE SM-G780G Dual SIM 6GB RAM 128GB",
+    "id": "SM-G781B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5756308"
+  },{
+    "name": "Samsung Galaxy S20 SM-G981B/DS 5G Dual SIM 12GB RAM 128GB",
+    "id": "SM-G981B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5263995"
+  },{
+    "name": "Samsung Galaxy S20 Plus SM-G986B 5G Dual SIM 12GB RAM 128GB",
+    "id": "SM-G986B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5263996"
+  },{
+    "name": "Samsung Galaxy Note 20 Ultra SM-N986B/DS 5G Dual SIM 12GB RAM 256GB",
+    "id": "SM-N986B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5449429"
+  },{
+    "name": "Samsung Galaxy S20 Ultra SM-G988B 5G Dual SIM 12GB RAM 128GB",
+    "id": "SM-G988B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5263997"
+  },{
+    "name": "Samsung Galaxy S9 SM-G960F/DS Dual SIM 4GB RAM 64GB",
+    "id": "SM-G960F",
+    "color": "none",
+    "storage": 64,
+    "pid": "4652628"
+  },{
+    "name": "Samsung Galaxy A51 SM-A515F/DS Dual SIM 4GB RAM 128GB",
+    "id": "SM-A515F",
+    "color": "none",
+    "storage": 128,
+    "pid": "5248850"
+  },{
+    "name": "Samsung Galaxy S10e SM-G970F/DS Dual SIM 6GB RAM 128GB",
+    "id": "SM-G970F",
+    "color": "none",
+    "storage": 128,
+    "pid": "5057278"
+  },{
+    "name": "Samsung Galaxy Z Flip 3 SM-F711B 5G 8GB RAM 256GB",
+    "id": "SM-F711B",
+    "color": "none",
+    "storage": 256,
+    "pid": "5838329"
+  },{
+    "name": "Samsung Galaxy Z Flip 3 SM-F711B 5G 8GB RAM 128GB",
+    "id": "SM-F711B",
+    "color": "none",
+    "storage": 128,
+    "pid": "5838252" 
+  }
+]
