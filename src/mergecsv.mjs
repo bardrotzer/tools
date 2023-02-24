@@ -21,11 +21,11 @@ county_population.forEach(d => {
   let miss = false;
   const padState = d.STATE.padStart(2,'0');
   const padfips = padState + d.COUNTY.padStart(3, '0');
-  const fips = Number(d.STATE + d.COUNTY.padStart(3, '0'));
+  const fips = d.STATE + d.COUNTY.padStart(3, '0');
   const f2 = county_election_results.find(f => f.fips_code === padfips)
-  const f1 = county_location_.find(f => f.Fips === ''+fips)
+  const f1 = county_location_.find(f => f.Fips === fips)
   const retval = {
-    fips,
+    fips: padfips,
     state: d.STNAME,
     name: d.CTYNAME,
     pop: Number(d.POPESTIMATE2016),
@@ -61,5 +61,5 @@ const outFileName = `${process.env.BASE_PATH}/output/county_elections.csv`
 await write(outFileName, pop)
 
 
-console.log(pop[0])
-//console.log(missing)
+//console.log(pop[0])
+console.log(missing)
