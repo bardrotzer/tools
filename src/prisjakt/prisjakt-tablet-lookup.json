@@ -1,0 +1,78 @@
+[
+{
+    "name": "Apple iPad Air 64GB (3rd Generation)",
+    "id": "A2152",
+    "storage": 64,
+    "pid": "5075805"
+  },{
+    "name": "Apple iPad Air Cellular 64GB (3rd Generation)",
+    "id": "mnr",
+    "storage": 64,
+    "pid": "5075807"
+  },{
+    "name": "Apple iPad 9.7\" 32GB (6th Generation)",
+    "id": "A1893",
+    "storage": 32,
+    "pid": "4734861"
+  },{
+    "name": "Apple iPad 9.7\" Cellular 128GB (6th Generation)",
+    "id": "mnr",
+    "storage": 128,
+    "pid": "4734961"
+  },{
+    "name": "Apple iPad 9.7\" Cellular 32GB (6th Generation)",
+    "id": "mnr",
+    "storage": 32,
+    "pid": "4734960"
+  },{
+    "name": "Apple iPad Mini 64GB (5th Generation)",
+    "id": "A2133",
+    "storage": 64,
+    "pid": "5075809"
+  },{
+    "name": "Apple iPad Mini Cellular 64GB (5th Generation)",
+    "id": "id",
+    "storage": 64,
+    "pid": "5075811"
+  },{
+    "name": "Apple iPad Mini 256GB (5th Generation)",
+    "id": "A2133",
+    "storage": 256,
+    "pid": "5075810"
+  },{
+    "name": "Apple iPad Mini Cellular 256GB (5th Generation)",
+    "id": "id",
+    "storage": 256,
+    "pid": "5075812"
+  },{
+    "name": "Apple iPad 10.2\" 32GB (7th Generation)",
+    "id": "A2197",
+    "storage": 32,
+    "pid": "5187408"
+  },{
+    "name": "Apple iPad 10.2\" Cellular 32GB (7th Generation)",
+    "id": "id",
+    "storage": 32,
+    "pid": "5187465"
+  },{
+    "name": "Apple iPad 10.2\" 128GB (7th Generation)",
+    "id": "A2197",
+    "storage": 128,
+    "pid": "5187464"
+  },{
+    "name": "Apple iPad 10.2\" Cellular 128GB (7th Generation)",
+    "id": "id",
+    "storage": 128,
+    "pid": "5187466"
+  },{
+    "name": "Samsung Galaxy Tab S7+ 12.4 SM-T970 128GB",
+    "id": "SM-T970",
+    "storage": 128,
+    "pid": "5450923"
+  },{
+    "name": "Samsung Galaxy Tab S7+ 12.4 SM-T970 256GB",
+    "id": "SM-T970",
+    "storage": 256,
+    "pid": "5450951"
+  }
+]
